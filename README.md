@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing (AWS & Azure), Python for Machine Learning, C# and Go for cloud computing.**
 
-- 👨‍💻 All of my projects are available at [www.ebenezertseh.com](www.ebenezertseh.com)
+- 👨‍💻 All of my projects are available at [www.ebenezertseh.com](https://ebenezertseh.com/)
 
 - 💬 Ask me about **Machine learning, edge computing, or exploring music theory.**
 
