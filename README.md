@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebenezer Tseh</h1>
 <h3 align="center">Aspiring Software Engineer & Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRyY29ibzR4enpvNHFpYm1oNGtwbXhpOWp4em4zcXhpM2E2MjBpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsehben&label=Profile%20views&color=0e75b6&style=flat" alt="tsehben" /> </p>
 
